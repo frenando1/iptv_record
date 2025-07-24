@@ -1,0 +1,50 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" ,BAND SD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1025838.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" ,BAND SP HD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1025839.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" ,BAND SP FHD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1025840.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" ,BAND ALAGOAS
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1025841.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" ,BAND BAHIA
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1025842.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" ,BAND CAMPINAS
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1025844.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" ,BAND CEARÁ
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1025845.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" ,BAND GOI�?NIA
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1025846.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" ,BAND MINAS
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1025847.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" ,BAND PARANÁ
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1025848.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" ,BAND PAULISTA
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1025849.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" ,BAND RECIFE
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1025850.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" ,BAND RJ HD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1025851.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" ,BAND RJ FHD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1025852.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" ,BAND RN
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1025853.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" ,BAND RS HD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1025854.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" ,BAND RS FHD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1025855.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" ,BAND RS FHD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1025855.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" ,BAND SC TVBV
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1025856.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" ,BAND SJC
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1025857.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/b92ca3bd619bfa5d2eed95d39938653d.png" ,BAND SPORTS SD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026056.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/b92ca3bd619bfa5d2eed95d39938653d.png" ,BAND SPORTS 4K
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026059.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/ecde17229a3d07369de3b9bb5ba43bc6.png" ,BAND NEWS SD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026502.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/ecde17229a3d07369de3b9bb5ba43bc6.png" ,BAND NEWS HD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026503.m3u8
+
