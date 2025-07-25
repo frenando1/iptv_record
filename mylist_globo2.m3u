@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/909f6c90b6db150078092be31dc47ffd.png" ,GLOBO RECIFE
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026311.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/909f6c90b6db150078092be31dc47ffd.png" ,GLOBO RJ SD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026312.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/909f6c90b6db150078092be31dc47ffd.png" ,GLOBO RJ HD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026313.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/909f6c90b6db150078092be31dc47ffd.png" ,GLOBO RJ FHD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026314.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/909f6c90b6db150078092be31dc47ffd.png" ,GLOBO RPC CURITIBA SD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026316.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/909f6c90b6db150078092be31dc47ffd.png" ,GLOBO RPC CURITIBA HD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026317.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/909f6c90b6db150078092be31dc47ffd.png" ,GLOBO RPC CURITIBA FHD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026318.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/909f6c90b6db150078092be31dc47ffd.png" ,GLOBO SP SD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026319.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/909f6c90b6db150078092be31dc47ffd.png" ,GLOBO SP HD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026320.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/909f6c90b6db150078092be31dc47ffd.png" ,GLOBO SP FHD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026321.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/909f6c90b6db150078092be31dc47ffd.png" ,GLOBO SP 4K
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026322.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/909f6c90b6db150078092be31dc47ffd.png" ,GLOBO TV ANHANGUERA GOIÁS
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026323.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/909f6c90b6db150078092be31dc47ffd.png" ,GLOBO TV ANHANGUERA TOCANTINS
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026324.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/909f6c90b6db150078092be31dc47ffd.png" ,GLOBO TV ASA BRANCA
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026325.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/909f6c90b6db150078092be31dc47ffd.png" ,GLOBO TV CABO BRANCO HD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026326.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/909f6c90b6db150078092be31dc47ffd.png" ,GLOBO TV CABO BRANCO FHD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026327.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/909f6c90b6db150078092be31dc47ffd.png" ,GLOBO TV CLUBE PI
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026328.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/909f6c90b6db150078092be31dc47ffd.png" ,GLOBO TV CLUBE PI
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026328.m3u8
+#EXTINF:-1 tvg-logo="http://vraws.com:8080/images/909f6c90b6db150078092be31dc47ffd.png" ,GLOBO TV GAZETA ES HD
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026329.m3u8
+
